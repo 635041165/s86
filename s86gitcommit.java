@@ -1,6 +1,4 @@
 aaaaaaaaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbbbb
 vvvvvvvvvvvvvvvvvv
-ccccccccccccccccc
 ddddddddddddd
-dadadadadadadasdwasdwa
